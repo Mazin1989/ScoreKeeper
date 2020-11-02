@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper Project</string>
+    <string name="text_team_a">Team A</string>
+    <string name="text_fouls">Fouls</string>
+    <string name="text_penalty">Penalty</string>
+    <string name="text_team_b">Team B</string>
+    <string name="text_0">0</string>
+    <string name="bt_score_plus_1">Score +1</string>
+    <string name="bt_foul_plus_1">Foul +1</string>
+    <string name="bt_penalty_plus_1">Penalty +1</string>
+    <string name="bt_reset">Reset</string>
+</resources>
